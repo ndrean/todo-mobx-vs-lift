@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.notchecked {
+  color: red;
+  font-weight: bold;
+}
+
+.ischecked {
+  font-size: 14px;
+  color: blue;
+  background-color: bisque;
+}
+
+ul {
+  list-style: none;
+}
